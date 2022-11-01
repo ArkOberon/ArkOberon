@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/kyd8TMW/github-cover.jpg" />
+<img src="<img src="https://i.ibb.co/MRnSLxX/1.jpg" />
 <h3>Enjoying the present technology. Developing the innovation of the future</h3>
 </p>
 <p align="center">&nbsp;</p>
