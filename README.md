@@ -3,4 +3,3 @@
 </p>
 <p align="center">&nbsp;</p>
 
-**Full Stack Developer** working with companies across a range of sectors including e-commerce, engineering, education and the public sector.
